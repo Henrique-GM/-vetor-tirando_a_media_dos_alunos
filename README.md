@@ -1,0 +1,1 @@
+# -vetor-tirando_a_media_dos_alunos
